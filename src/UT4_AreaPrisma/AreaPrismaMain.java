@@ -1,9 +1,11 @@
 package UT4_AreaPrisma;
 
 import java.util.Scanner;
-
-
-
+/**
+ * Clase que contiene el metodo main
+ * @author Alberto
+ *
+ */
 public class AreaPrismaMain {
 
 	/**

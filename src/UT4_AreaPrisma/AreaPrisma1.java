@@ -96,7 +96,7 @@ public class AreaPrisma1 {
 		return(perimetro*this.alturaPrisma);
 	}
 	
-	//He añadido este comentario para comprobar que todo funciona correctamente
+	
 	/**
 	 * Calcula el area total del prisma triangular
 	 * @return el area total del prisma
